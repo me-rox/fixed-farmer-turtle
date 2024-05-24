@@ -6,7 +6,7 @@ Note: This program can only run on Mining Turtles
 
 Version: 0.1.0
 
-## Featurs
+## Features
 
 * Farms wheat automaticlly.
 * Stores output in a chest.
@@ -67,7 +67,7 @@ also if the farm is in a snowy biome this can help to stop it from freezing
 
 For 1.18(Should work with 1.13+):
 
-```bash
+
 pastebin run pGr02zfR installer.lua
 ```
 
