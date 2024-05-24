@@ -63,16 +63,12 @@ also if the farm is in a snowy biome this can help to stop it from freezing
 
 #### 2. Open the turtle and enter the following and press enter
 
-For 1.12:
-
-```bash
-pastebin run Vg8AEmt3 installer.lua
 ```
 
 For 1.18(Should work with 1.13+):
 
 ```bash
-pastebin run ZpsTwhY5 installer.lua
+pastebin run pGr02zfR installer.lua
 ```
 
 ![Setup9](https://user-images.githubusercontent.com/79906420/155710654-4d6f1cd4-369d-4a4e-92c0-05821e9f592e.png)
