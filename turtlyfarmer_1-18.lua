@@ -208,7 +208,7 @@ while true do
 
     shell.run("clear")
 
-    print("Sleeping for 20min...")
+    print("Sleeping for 5min...")
     print("Fuel level: " .. turtle.getFuelLevel())
 
     sleep(60*5)
